@@ -6,3 +6,5 @@ def remove_duplicates(lista):
              return lista(item)
           return lista(item)
 print (remove_dupplicates([1,2,3]))
+
+#comment 01
